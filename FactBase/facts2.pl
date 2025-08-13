@@ -9,5 +9,6 @@ mae(maria, emerson).
 % Cidadanias
 cidadania(joao, alema).
 cidadania(pedro, italiana).
+cidadania(andre, italiana).
 cidadania(ana, portuguesa).
 cidadania(joao, britanica).
